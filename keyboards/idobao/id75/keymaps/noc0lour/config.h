@@ -21,4 +21,4 @@
 
 // Some double-presses with set to 5
 #undef DEBOUNCE
-#define DEBOUNCE 10
+#define DEBOUNCE 20
