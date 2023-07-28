@@ -19,3 +19,6 @@
 
 // place overrides here
 
+// Some double-presses with set to 5
+#undef DEBOUNCE
+#define DEBOUNCE 10
